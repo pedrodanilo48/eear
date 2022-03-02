@@ -3,9 +3,9 @@
 ![before image](Downloads/eear/img/descricao/before.png)<br>
 <strong>Not responsive at all:</strong><br>
 ![before image](Downloads/eear/img/descricao/before1.png)<br>
-<strong>After:</strong><br>
+<strong>After: (80% zoom)</strong><br>
 ![before image](Downloads/eear/img/descricao/after.png)<br>
-<strong>Responsive :) (80% zoom)</strong><br>
+<strong>Responsive :)</strong><br>
 ![before image](Downloads/eear/img/descricao/after1.png)<br>
 <strong>Responsive :)</strong><br>
 ![before image](Downloads/eear/img/descricao/after2.png)
