@@ -5,7 +5,7 @@
 ![before image](Downloads/eear/img/descricao/before1.png)<br>
 <strong>After:</strong><br>
 ![before image](Downloads/eear/img/descricao/after.png)<br>
-<strong>Responsive :)</strong><br>
+<strong>Responsive :) (80% zoom)</strong><br>
 ![before image](Downloads/eear/img/descricao/after1.png)<br>
 <strong>Responsive :)</strong><br>
 ![before image](Downloads/eear/img/descricao/after2.png)
