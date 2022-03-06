@@ -11332,6 +11332,9 @@ textarea.form-control-lg {
 .rodape{
   margin-top: auto;
 }
+.centralizar-texto{
+  text-align: center;
+}
 .corpinho{
   margin-top: 10px;
   display: grid;
@@ -11420,6 +11423,7 @@ html{
   position: relative;
   background-color: #000;
   border-radius: 50%;
+  align-self: center;
 }
 .meubotao{
   position: absolute;
