@@ -1,4 +1,4 @@
-# EEAR
+# EEAR - Air Force website
 <strong>Before (their official website):</strong><br>
 ![before image](img/descricao/before.png)<br>
 <strong>Not responsive at all:</strong><br>
